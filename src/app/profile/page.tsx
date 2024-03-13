@@ -1,12 +1,11 @@
 export default function Profile() {
     return (
-      <div>
-        <h1>Welcome to My Profile</h1>
-        <p>Nama: Ahmad Tito Nur Hendrawan</p>
-        <p>NIM: 2141720265</p>
-        <p>Institusi: Politeknik Negeri Malang</p>
-        <p>Jurusan: Teknologi Informasi</p>
-        <p>Program Studi: D-IV Teknik Informatika</p>
-      </div>
-    );
-  }
+     <div>
+      <h1>Welcome To Profile</h1>
+      <p>Nama: Farhan Ramazain</p>
+      <p>Nim : 2141720209</p>
+      <p>Kelas : TI-3B</p>
+    </div>
+  );
+};
+    
